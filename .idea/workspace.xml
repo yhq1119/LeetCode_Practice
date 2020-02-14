@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc09009f-4280-42e9-8954-f2d62e9e04a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/MostFreqInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Test/AlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/AlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/AlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/AlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Others/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Others/Special_Number_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Special_Number_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -38,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/Special_Number_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/MethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="180">
               <caret line="17" selection-start-line="15" selection-start-column="3" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,17 +75,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/AlgorithmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/GuessTheNthChar.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Others/MostFreqInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Others/FindSumPairIntegers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Others/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/Others/Special_Number_1.java" />
         <option value="$PROJECT_DIR$/src/Others/Special_Number_2.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Others/CounterBinarySubstrings.java" />
@@ -120,14 +148,17 @@
         <option value="$PROJECT_DIR$/src/Test/MethodTest.java" />
         <option value="$PROJECT_DIR$/src/Test/AlgorithmTest.java" />
         <option value="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" />
+        <option value="$PROJECT_DIR$/src/Others/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/Others/Special_Number_1.java" />
+        <option value="$PROJECT_DIR$/src/Others/MostFreqInteger.java" />
+        <option value="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
-    <option name="y" value="140" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="1006" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -135,9 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="NBKnowledgePane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +211,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581621348251" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581703001004" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -211,13 +242,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuessTheNthChar">
+  <component name="RunManager" selected="Application.FindSumPairIntegers">
     <configuration name="AlgorithmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.AlgorithmTest" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSumPairIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Others.FindSumPairIntegers" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,8 +282,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Special_Number_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Others.Special_Number_1" />
+    <configuration name="MostFreqInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Others.MostFreqInteger" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -267,29 +311,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.MethodTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSumPairIntegers" />
+        <item itemvalue="Application.MostFreqInteger" />
         <item itemvalue="Application.GuessTheNthChar" />
         <item itemvalue="Application.AlgorithmTest" />
         <item itemvalue="JUnit.MethodTest.test1" />
-        <item itemvalue="JUnit.MethodTest.test2" />
-        <item itemvalue="Application.Special_Number_1" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +332,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581319093049</updated>
       <workItem from="1581319096553" duration="16692000" />
-      <workItem from="1581585935124" duration="16980000" />
+      <workItem from="1581585935124" duration="17663000" />
+      <workItem from="1581699448113" duration="3548000" />
     </task>
     <servers />
   </component>
@@ -341,7 +370,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33672000" />
+    <option name="totallyTimeSpent" value="37903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,10 +382,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="271" y="140" width="974" height="1006" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,7 +395,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3301887" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,27 +432,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Others/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/MethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Others/Special_Number_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="17" selection-start-line="15" selection-start-column="3" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Others/CounterBinarySubstrings.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/AlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/Special_Number_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -434,27 +466,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/MethodTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Others/CounterBinarySubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/GuessTheNthChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/MostFreqInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" selection-start-line="15" selection-start-column="3" selection-end-line="17" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/AlgorithmTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Others/FindSumPairIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Others/GuessTheNthChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        <state relative-caret-position="840">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

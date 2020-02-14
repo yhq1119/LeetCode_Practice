@@ -3,6 +3,21 @@ package Others;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+/**
+ * Some integers are special because their
+ * digits meets equation. For example, 153 has
+ * property like 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+ * The total number m of digits of the integer X and each
+ * digit (a, b, c, ... ,n) of the integer X satisfies
+ * pattern like a^m + b^m + c^m = X.
+ *
+ * Design an algorithm to get all Xs that satisfy the
+ * input m.
+ */
+
+
+
 public class Special_Number_1 {
 
     public static void main(String[] args) {

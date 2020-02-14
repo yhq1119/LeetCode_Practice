@@ -1,13 +1,25 @@
 package Others;
 
+/**
+ * Given a String like "X[Y]n"
+ * it means the content Y inside the [] would
+ * be repeated n times. This type of String allows
+ * nested rules like "X[Z[Y]n]m"
+ *
+ * Now design an algorithm to get the Nth char of
+ * such String.
+ *
+ */
+
 public class GuessTheNthChar {
+
 
     public static void main(String[] args) {
 
         String str1 = "a[b]2cd[ef]5ghi";
         String str2 = "a[b[c[ok]2]2]2"; // ab[c]2b[c]2b[c]2 --> abccbccbcc
 
-        new GuessTheNthChar().showAt(str1,4);
+        new GuessTheNthChar().showAt(str1,18);
         new GuessTheNthChar().showAt(str2,5);
 
 

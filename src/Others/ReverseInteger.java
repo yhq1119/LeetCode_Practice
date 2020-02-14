@@ -2,6 +2,13 @@ package Others;
 
 import java.util.Scanner;
 
+
+/**
+ * Given integers like 123 the algorithm would
+ * reverse the number like 321.
+ * Similarly, input like -123 would get a result like -321
+ */
+
 public class ReverseInteger {
 
     // store the result
@@ -9,7 +16,14 @@ public class ReverseInteger {
 
     public static void main(String[] args) {
 
+        new ReverseInteger().solution();
+
+    }
+
+    private void solution() {
+
         // initialize all variables and objects
+
         store = "";
         Scanner input = new Scanner(System.in);
         // get users input
@@ -21,9 +35,10 @@ public class ReverseInteger {
         }
         // output the result
         System.out.println(store);
+
     }
 
-    private static int getNumber(int num) {
+    private int getNumber(int num) {
         // process negative integer
         if (num < 0) {
             store = store + '-';
