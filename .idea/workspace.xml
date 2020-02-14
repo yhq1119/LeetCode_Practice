@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc09009f-4280-42e9-8954-f2d62e9e04a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Others/MostFreqInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Others/ReturnOneElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Special_Number_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/Special_Number_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,16 +89,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Others/FindSumPairIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="-180">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#602#603#0" expanded="true" />
                 <element signature="e#648#649#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Others/ReturnOneElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -152,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/Others/Special_Number_1.java" />
         <option value="$PROJECT_DIR$/src/Others/MostFreqInteger.java" />
         <option value="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" />
+        <option value="$PROJECT_DIR$/src/Others/ReturnOneElement.java" />
       </list>
     </option>
   </component>
@@ -211,7 +208,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581703001004" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581704252110" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -333,7 +330,7 @@
       <updated>1581319093049</updated>
       <workItem from="1581319096553" duration="16692000" />
       <workItem from="1581585935124" duration="17663000" />
-      <workItem from="1581699448113" duration="3548000" />
+      <workItem from="1581699448113" duration="4797000" />
     </task>
     <servers />
   </component>
@@ -370,7 +367,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37903000" />
+    <option name="totallyTimeSpent" value="39152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,13 +496,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Others/FindSumPairIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="-180">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#602#603#0" expanded="true" />
             <element signature="e#648#649#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/ReturnOneElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>

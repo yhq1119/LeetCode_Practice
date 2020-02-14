@@ -40,7 +40,7 @@ public class FindSumPairIntegers {
         }
 
         public String toString(){
-            return "("+X+","+Y+")";
+            return " "+X+" "+Y+" ";
         }
     }
 
@@ -68,8 +68,13 @@ public class FindSumPairIntegers {
         }
 
         System.out.println("Result of "+showInts(copy)+" sum of ["+sum+"]");
-        for (Pair P: temp){
-            System.out.print(P.toString());
+
+        if (temp.size()<1){
+            System.out.print("Empty"+"\n");
+        }else {
+            for (Pair P : temp) {
+                System.out.print(P.toString() + "\n");
+            }
         }
         System.out.println();
 
