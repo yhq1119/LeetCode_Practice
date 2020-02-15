@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc09009f-4280-42e9-8954-f2d62e9e04a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/BestTimeBuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_cases/Cases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/CounterBinarySubstrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/CounterBinarySubstrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/FindSumPairIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/GuessTheNthChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/MostFreqInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/MostFreqInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Others/Special_Number_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Test/AlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/AlgorithmTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Test/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Test/MethodTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/CounterBinarySubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/CounterBinarySubstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/FindSumPairIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/FindSumPairIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/GuessTheNthChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/GuessTheNthChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/MostFreqInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/MostFreqInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReturnOneElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/ReturnOneElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Special_Number_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Special_Number_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Special_Number_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Special_Number_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/AlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,17 +82,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/BestTimeBuySellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
+            <state relative-caret-position="-42">
               <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+            <state relative-caret-position="175">
+              <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_cases/Cases.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="679">
@@ -178,8 +153,8 @@
         <option value="$PROJECT_DIR$/src/DynamicProgramming/BestTimeBuySellStock.java" />
         <option value="$PROJECT_DIR$/src/Stack/OneThreeTwoPattern.java" />
         <option value="$PROJECT_DIR$/src/exceptions/InvalidInputException.java" />
-        <option value="$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java" />
         <option value="$PROJECT_DIR$/src/test_cases/Cases.java" />
+        <option value="$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java" />
       </list>
     </option>
   </component>
@@ -206,35 +181,6 @@
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test_cases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -251,7 +197,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581744977816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581762427961" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -370,7 +316,7 @@
       <updated>1581319093049</updated>
       <workItem from="1581319096553" duration="16692000" />
       <workItem from="1581585935124" duration="17663000" />
-      <workItem from="1581699448113" duration="13428000" />
+      <workItem from="1581699448113" duration="15895000" />
     </task>
     <servers />
   </component>
@@ -407,7 +353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47783000" />
+    <option name="totallyTimeSpent" value="50250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,7 +368,7 @@
     <frame x="-7" y="0" width="886" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2881356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2881356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -432,7 +378,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,24 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#1484#1485#0" expanded="true" />
-            <element signature="e#1539#1540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/BestTimeBuySellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test_cases/TestCaseGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -585,20 +513,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/test_cases/Cases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+        <state relative-caret-position="679">
+          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_cases/Cases.java">
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/BestTimeBuySellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+        <state relative-caret-position="-42">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/OneThreeTwoPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

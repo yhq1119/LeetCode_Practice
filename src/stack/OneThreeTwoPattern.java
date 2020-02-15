@@ -35,7 +35,7 @@ public class OneThreeTwoPattern {
 
     public static void main(String[] args) throws InvalidInputException {
 
-        int[] test = Cases.randomInts(0,15,100);
+        int[] test = Cases.randomInts(0,15,8);
 
         int[] test1 = {1,2,3,4,5,6,7};
         int[] test2 = {-1,4,1,1,3,3,4};
