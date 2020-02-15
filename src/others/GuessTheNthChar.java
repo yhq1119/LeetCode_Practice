@@ -1,4 +1,4 @@
-package Others;
+package others;
 
 /**
  * Given a String like "X[Y]n"

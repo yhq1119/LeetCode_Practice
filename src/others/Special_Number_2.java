@@ -1,4 +1,4 @@
-package Others;
+package others;
 
 public class Special_Number_2 {
 

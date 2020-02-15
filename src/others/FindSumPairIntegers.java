@@ -1,7 +1,6 @@
-package Others;
+package others;
 
 import java.util.ArrayList;
-import java.util.Set;
 
 /**
  * Given an array of non-negative integers
